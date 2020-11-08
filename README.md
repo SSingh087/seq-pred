@@ -9,8 +9,11 @@ Authors: [Shashwat Singh](https://github.com/SSingh087/)<sup>†</sup> , [Atharv
 The two models we present are ConvLSTM, Autoencoder-Decoder
 
 Link to dataset:
-Experimentations
+
+## Experimentations
 
 ### ConvLSTM Model
 
- ![img](https://github.com/SSingh087/seq-pred/blob/main/model.png)
+![img](https://github.com/SSingh087/seq-pred/blob/main/model.png)
+ 
+ We experimented with the model layers and the filter size.
