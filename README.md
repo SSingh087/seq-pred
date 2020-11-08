@@ -12,3 +12,5 @@ Link to dataset:
 Experimentations
 
 ### ConvLSTM Model
+
+ ![img](https://github.com/SSingh087/seq-pred/blob/main/model.png)
