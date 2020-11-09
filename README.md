@@ -15,10 +15,8 @@ Link to dataset:
 ### Model 1 results
 Primary results:
 
-<img src="https://github.com/SSingh087/seq-pred/blob/main/1.png" width="400" height="200">
-<img src="https://github.com/SSingh087/seq-pred/blob/main/2.png" width="400" height="200">
-<img src="https://github.com/SSingh087/seq-pred/blob/main/4.png" width="400" height="200">
-<img src="https://github.com/SSingh087/seq-pred/blob/main/3.png" width="400" height="200">
+<img src="https://github.com/SSingh087/seq-pred/blob/main/1.png" width="400" height="200"><img src="https://github.com/SSingh087/seq-pred/blob/main/2.png" width="400" height="200">
+<img src="https://github.com/SSingh087/seq-pred/blob/main/4.png" width="400" height="200"><img src="https://github.com/SSingh087/seq-pred/blob/main/3.png" width="400" height="200">
  
 ### Model 2 results
 Primary results:
