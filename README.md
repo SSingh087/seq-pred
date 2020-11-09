@@ -14,6 +14,7 @@ Link to dataset:
 
 ### Model 1 results
 Primary results:
+
 <img src="https://github.com/SSingh087/seq-pred/blob/main/1.png" width="500" height="400">
 <img src="https://github.com/SSingh087/seq-pred/blob/main/2.png" width="500" height="400">
 <img src="https://github.com/SSingh087/seq-pred/blob/main/3.png" width="500" height="400">
