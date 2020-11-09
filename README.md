@@ -10,13 +10,14 @@ We present two models
 
 Link to dataset:
 
-## Experimentation
+## Primary Results
 
 ### Model 1 results
-Primary results:
+
+#### Model Architecture:
+to be updated
+
+#### Results:
 
 <img src="https://github.com/SSingh087/seq-pred/blob/main/1.png" width="400" height="200"><img src="https://github.com/SSingh087/seq-pred/blob/main/2.png" width="400" height="200">
 <img src="https://github.com/SSingh087/seq-pred/blob/main/4.png" width="400" height="200"><img src="https://github.com/SSingh087/seq-pred/blob/main/3.png" width="400" height="200">
- 
-### Model 2 results
-Primary results:
