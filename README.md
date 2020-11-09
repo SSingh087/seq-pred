@@ -17,3 +17,10 @@ Link to dataset:
 ![img](https://github.com/SSingh087/seq-pred/blob/main/model.png)
  
 Our primary experimentation result with the model layers and the filter size is shown in fig-
+
+### Autoencoder-Decoder Model
+
+![img](https://github.com/SSingh087/seq-pred/blob/main/model.png)
+ 
+Our primary experimentation result with the model layers and the filter size is shown in fig-
+
