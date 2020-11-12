@@ -8,14 +8,14 @@ Authors: [Shashwat Singh](https://github.com/SSingh087/)<sup>†</sup> , [Atharv
 
 We present two models 
 
-Link to dataset:
+Link to dataset: *link will updated*
 
 ## Primary Results
 
 ### Model 1 results
 
 #### Model Architecture:
-to be updated
+*to be updated*
 
 #### Results:
 
