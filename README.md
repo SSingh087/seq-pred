@@ -21,3 +21,10 @@ to be updated
 
 <img src="https://github.com/SSingh087/seq-pred/blob/main/1.png" width="400" height="200"><img src="https://github.com/SSingh087/seq-pred/blob/main/2.png" width="400" height="200">
 <img src="https://github.com/SSingh087/seq-pred/blob/main/4.png" width="400" height="200"><img src="https://github.com/SSingh087/seq-pred/blob/main/3.png" width="400" height="200">
+ 
+![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/60_1_1.gif)
+![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/60_1_5.gif)
+![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/60_1_12.gif)
+![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/80nc20_1_1.gif)
+![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/80nc20_1_5.gif)
+![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/80nc20_1_12.gif)
