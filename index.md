@@ -18,4 +18,4 @@ Link to dataset: *link will updated*
 *to be updated*
 
 #### Results:
- <img src="/main/primary%20res/60_1_1.gif" alt="hi" class="inline"/>
+ <img src="main/primary%20res/60_1_1.gif" />
