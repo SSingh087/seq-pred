@@ -19,7 +19,7 @@ Link to dataset: *link will updated*
 
 #### Results:
  
-<a herf="https://github.com/SSingh087/seq-pred/blob/main/primary%20res/60_1_1.gif"></a>
+<img src="https://github.com/SSingh087/seq-pred/blob/main/primary%20res/60_1_1.gif">
 ![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/60_1_5.gif)
 ![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/60_1_12.gif)
 ![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/80nc20_1_1.gif)
