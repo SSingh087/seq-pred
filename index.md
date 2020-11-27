@@ -18,4 +18,4 @@ Link to dataset: *link will updated*
 *to be updated*
 
 #### Results:
- <img src="main/primary%20res/60_1_1.gif" />
+ <img src="https://github.com/SSingh087/seq-pred/blob/main/primary%20res/60_1_12.gif" />
