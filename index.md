@@ -18,8 +18,8 @@ Link to dataset: *link will updated*
 *to be updated*
 
 #### Results:
- 
-<img src="https://github.com/SSingh087/seq-pred/blob/main/primary%20res/60_1_1.gif" width="800" />
+ <img src="main/primary%20res/60_1_1.gif" alt="hi" class="inline"/>
+
 ![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/60_1_5.gif)
 ![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/60_1_12.gif)
 ![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/80nc20_1_1.gif)
