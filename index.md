@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Predicting spatiotemporal sequence of the astronomical cycle 
 
-You can use the [editor on GitHub](https://github.com/SSingh087/seq-pred/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Link to article : *link will updated*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Authors: [Shashwat Singh](https://github.com/SSingh087/)<sup>†</sup> , <!--[Atharva Modi](https://github.com/AntiNeutrino03),--> [Ankul Prajapati](https://www.researchgate.net/profile/Ankul_Prajapati), [K. N. Pathak](https://www.researchgate.net/profile/Kamlesh_Pathak)
 
-### Markdown
+<sup>†</sup> shashwat98singh@gmail.com 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We present two models 
 
-```markdown
-Syntax highlighted code block
+Link to dataset: *link will updated*
 
-# Header 1
-## Header 2
-### Header 3
+## Primary Results
 
-- Bulleted
-- List
+### Model 1 results
 
-1. Numbered
-2. List
+#### Model Architecture:
+*to be updated*
 
-**Bold** and _Italic_ and `Code` text
+#### Results:
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SSingh087/seq-pred/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<img src="https://github.com/SSingh087/seq-pred/blob/main/1.png" width="400" height="200"><img src="https://github.com/SSingh087/seq-pred/blob/main/2.png" width="400" height="200">
+<img src="https://github.com/SSingh087/seq-pred/blob/main/4.png" width="400" height="200"><img src="https://github.com/SSingh087/seq-pred/blob/main/3.png" width="400" height="200">
+ 
+![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/60_1_1.gif)
+![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/60_1_5.gif)
+![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/60_1_12.gif)
+![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/80nc20_1_1.gif)
+![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/80nc20_1_5.gif)
+![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/80nc20_1_12.gif)
