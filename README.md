@@ -22,4 +22,4 @@ Link to dataset: *link will updated*
 ![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/sm-px/P_0_30_60_13.gif)
 ![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/sm-px/sP_0_30_60_13.gif)
 ![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/sm-px/P_0_30_90_10.gif)
-![Alt Text](https://drive.google.com/file/d/1ETr8mwrFASfNjQ5siL3W4-4pwrF0X4-x/view?usp=sharing)
+![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/sm-px/sP_0_30_90_10.gif)
