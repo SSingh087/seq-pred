@@ -10,16 +10,16 @@ We present two models
 
 Link to dataset: *link will updated*
 
-## Primary Results
+## Model 1 results
 
-### Model 1 results
-
-#### Model Architecture:
+### Model Architecture:
 *to be updated*
 
-#### Results:
+### Results:
+
+#### Sec-2.3
 
 ![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/sm-px/P_0_30_60_13.gif)
 ![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/sm-px/sP_0_30_60_13.gif)
 ![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/sm-px/P_0_30_90_10.gif)
-![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/sm-px/sP_0_30_60_10.gif)
+![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/sm-px/sP_0_30_90_10.gif)
