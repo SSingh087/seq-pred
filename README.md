@@ -19,9 +19,7 @@ Link to dataset: *link will updated*
 
 #### Results:
 
-![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/60_1_1.gif)
-![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/60_1_5.gif)
-![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/60_1_12.gif)
-![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/80nc20_1_1.gif)
-![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/80nc20_1_5.gif)
-![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/primary%20res/80nc20_1_12.gif)
+![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/sm-px/P_0_30_60_13.gif)
+![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/sm-px/sP_0_30_60_13.gif)
+![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/sm-px/P_0_30_90_10.gif)
+![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/sm-px/sP_0_30_60_10.gif)
