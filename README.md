@@ -23,3 +23,7 @@ Link to dataset: *link will updated*
 ![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/sm-px/sP_0_30_60_13.gif)
 ![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/sm-px/P_0_30_90_10.gif)
 ![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/sm-px/sP_0_30_90_10.gif)
+
+    ---Connecting to drive (check)-----
+
+<a href="https://drive.google.com/uc?export=view&id=1etK4kycdwGXszGHezMz-j7FO5jiMXSen"><img src="https://drive.google.com/uc?export=view&id=1etK4kycdwGXszGHezMz-j7FO5jiMXSen" style="width: 650px; max-width: 100%; height: auto" title="Number of clusters 2" />
