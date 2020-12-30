@@ -6,18 +6,11 @@ Authors: [Shashwat Singh](https://github.com/SSingh087/)<sup>†</sup> , <!--[At
 
 <sup>†</sup> shashwat98singh@gmail.com 
 
-We present two models 
+Link to dataset: http://galmer.obspm.fr/
 
-Link to dataset: *link will updated*
+## Results:
 
-## Model 1 results
-
-### Model Architecture:
-*to be updated*
-
-### Results:
-
-#### Sec-2.3
+### Sec-2
 
 ![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/sm-px/P_0_30_60_13.gif)
 ![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/sm-px/sP_0_30_60_13.gif)
@@ -25,6 +18,6 @@ Link to dataset: *link will updated*
 ![Alt Text](https://github.com/SSingh087/seq-pred/blob/main/sm-px/sP_0_30_90_10.gif)
 
 
-#### Sec-6
+### Sec-6
 <a href="https://drive.google.com/uc?export=view&id=1uWE5wFb3UBBvn7WVw3WRwUCwcq5djx9x"><img src="https://drive.google.com/uc?export=view&id=1uWE5wFb3UBBvn7WVw3WRwUCwcq5djx9x" style="width: 650px; max-width: 100%; height: auto" title="HSV"/>
 <a href="https://drive.google.com/uc?export=view&id=1Kz6wMKzYVa8ItO6ieaD-RLJGgDBdnuMJ"><img src="https://drive.google.com/uc?export=view&id=1Kz6wMKzYVa8ItO6ieaD-RLJGgDBdnuMJ" style="width: 650px; max-width: 100%; height: auto" title="HSV"/>
