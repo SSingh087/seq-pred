@@ -62,7 +62,7 @@ def getURLAndFile(dictValues):
                 strUrl += "&stars=" + str(iStars)
                 strUrl += "&halo=" + str(iDm)
                 strUrl += "&quantity=0"
-                strFileName = strFolderName +"/" + "d_" + strPhi + "_" + strTheta + "_3_" +  "(" + str(i) +").gif"
+                strFileName = <location>
                 listUnF.append([strUrl,strFileName])
         i+=1
     return listUnF
