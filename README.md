@@ -1,6 +1,6 @@
 # Predicting spatiotemporal sequence of the astronomical cycle 
 
-Link to article : *link will updated*
+Link to article : https://arxiv.org/pdf/2012.15476.pdf
 
 Authors: [Shashwat Singh](https://github.com/SSingh087/)<sup>†</sup> , <!--[Atharva Modi](https://github.com/AntiNeutrino03),--> [Ankul Prajapati](https://www.researchgate.net/profile/Ankul_Prajapati), [K. N. Pathak](https://www.researchgate.net/profile/Kamlesh_Pathak)
 
