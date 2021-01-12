@@ -12,8 +12,6 @@ from lenstronomy.LightModel.Profiles.interpolation import Interpol
 import PIL
 from tqdm import tqdm
 
-z_lens = 0.05
-z_source = .02
 M200 = 10**15
 concentration = 3
 numPix = 100
@@ -40,11 +38,6 @@ for i in (range(30,91,30)):
           kappa = lensModel.kappa(x_grid, y_grid, kwargs_lens_list)
           kappa = util.array2image(kappa)
 
-          cosmo = default_cosmology.get()          
-          lensCosmo = LensCosmo(z_lens=z_lens, z_source=z_source, cosmo=cosmo)
-
-          Rs_angle_clump, theta_Rs_clump = lensCosmo.nfw_physical2angle(M=M200, c=concentration)
-          rho0_clump, Rs_clump, c_clump, r200_clump, M200_clump = lensCosmo.nfw_angle2physical(Rs_angle_clump, theta_Rs_clump)
           loc = "P_0_"+str(i)+'_'+str(j)+'_'+str(k)+"_("+str(ii)
           ngc_data = PIL.Image.open(<loc>)
           ngc_data = np.asarray(ngc_data)/255
